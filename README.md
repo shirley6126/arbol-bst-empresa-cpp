@@ -92,7 +92,7 @@ Para probar el árbol con un organigrama completo, ingresar los empleados **en e
 
 > El primer empleado insertado (código 50) siempre será la raíz del árbol.
 ```
-## 📸 Capturas de Ejecución
+## Capturas de Ejecución
  
 ### 0. Menú Principal
 <img width="379" height="337" alt="00_menu" src="https://github.com/user-attachments/assets/c66eab8c-aa32-4f6b-981b-afdafee0e4a1" />
