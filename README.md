@@ -1,10 +1,4 @@
-# 🌳 Árbol Binario de Búsqueda (BST) — Organigrama Empresarial en C++
-
-**Asignatura:** Estructura de Datos  
-**Carrera:** Ingeniería en Software  
-**Lenguaje:** C++
-
----
+# Árbol Binario de Búsqueda (BST) — Organigrama Empresarial en C++
 
 ## Objetivo
 
