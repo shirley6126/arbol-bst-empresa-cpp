@@ -69,9 +69,9 @@ arbol-bst-empresa-cpp/
 
 ---
 
-Cómo Compilar y Ejecutar
+Cómo Compilar 
 
-### Requisitos
+Requisitos
 - Tener instalado **g++** (MinGW en Windows)
 - Git Bash 
 
@@ -89,15 +89,11 @@ Para probar el árbol con un organigrama completo, ingresar los empleados **en e
 | 60 | Emp 3 | Hoja |
 | 80 | Emp 4 | Hoja |
 
-> El **primer empleado insertado** (código 50) siempre será la raíz del árbol.
-
----
-Conclusión
-
-La implementación de un **Árbol Binario de Búsqueda** para representar un organigrama empresarial demuestra cómo las estructuras de datos permiten organizar información jerárquica de forma eficiente. A diferencia de una lista o arreglo lineal, el BST permite realizar búsquedas en **O(log n)** en promedio, lo que significa que con 1000 empleados solo se necesitan aproximadamente 10 comparaciones para encontrar cualquier registro.
+> El primer empleado insertado (código 50) siempre será la raíz del árbol.
+```
+## Conclusión
+La implementación de un Árbol Binario de Búsqueda para representar un organigrama empresarial demuestra cómo las estructuras de datos permiten organizar información jerárquica de forma eficiente. A diferencia de una lista o arreglo lineal, el BST permite realizar búsquedas en O(log n) en promedio, lo que significa que con 1000 empleados solo se necesitan aproximadamente 10 comparaciones para encontrar cualquier registro.
 
 Los tres tipos de recorrido (inorden, preorden y postorden) ofrecen distintas perspectivas del organigrama: inorden entrega una lista ordenada por código, preorden refleja la jerarquía de arriba hacia abajo, y postorden es útil para procesar primero a los subordinados antes que sus superiores.
 
 Esta práctica refuerza conceptos fundamentales de la programación orientada a objetos en C++, el uso de estructuras recursivas, punteros y la organización modular del código mediante clases.
-
----
