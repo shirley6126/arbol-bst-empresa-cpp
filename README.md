@@ -69,13 +69,13 @@ arbol-bst-empresa-cpp/
 
 ---
 
-## Cómo Compilar y Ejecutar
+Cómo Compilar y Ejecutar
 
 ### Requisitos
 - Tener instalado **g++** (MinGW en Windows)
 - Git Bash 
 
-## Datos de Prueba Sugeridos
+Datos de Prueba Sugeridos
 
 Para probar el árbol con un organigrama completo, ingresar los empleados **en este orden**:
 
@@ -92,7 +92,7 @@ Para probar el árbol con un organigrama completo, ingresar los empleados **en e
 > El **primer empleado insertado** (código 50) siempre será la raíz del árbol.
 
 ---
-## Conclusión
+Conclusión
 
 La implementación de un **Árbol Binario de Búsqueda** para representar un organigrama empresarial demuestra cómo las estructuras de datos permiten organizar información jerárquica de forma eficiente. A diferencia de una lista o arreglo lineal, el BST permite realizar búsquedas en **O(log n)** en promedio, lo que significa que con 1000 empleados solo se necesitan aproximadamente 10 comparaciones para encontrar cualquier registro.
 
