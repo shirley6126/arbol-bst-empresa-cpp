@@ -1,6 +1,6 @@
 #include <iostream>   
 #include <string>     
-#include <algorithm>  // Permite usar funciones como max() para comparar valores
+#include <algorithm>
 using namespace std;
 
 
