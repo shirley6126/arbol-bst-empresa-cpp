@@ -31,9 +31,9 @@ Un **Árbol Binario de Búsqueda (BST)** es una estructura de datos jerárquica 
    20    40      60    80
 ```
 
-- 📌 **Todo número menor** que el nodo va al **subárbol izquierdo**
-- 📌 **Todo número mayor** que el nodo va al **subárbol derecho**
-- 📌 Esta regla hace que las búsquedas sean muy eficientes
+-  **Todo número menor** que el nodo va al **subárbol izquierdo**
+-  **Todo número mayor** que el nodo va al **subárbol derecho**
+-  Esta regla hace que las búsquedas sean muy eficientes
 
 ### Conceptos clave
 
