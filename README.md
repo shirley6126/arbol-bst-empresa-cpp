@@ -1,5 +1,6 @@
 # Árbol Binario de Búsqueda (BST) — Organigrama Empresarial en C++
-
+## Autor
+Shirley Amaguaña
 ## Objetivo
 
 Implementar en C++ un **Árbol Binario de Búsqueda (BST)** para organizar empleados de una empresa usando un código numérico como clave de búsqueda. El sistema permite insertar, buscar y recorrer empleados de manera eficiente a través de una estructura jerárquica, representando visualmente el organigrama de una organización.
@@ -91,6 +92,41 @@ Para probar el árbol con un organigrama completo, ingresar los empleados **en e
 
 > El primer empleado insertado (código 50) siempre será la raíz del árbol.
 ```
+## 📸 Capturas de Ejecución
+ 
+### 0. Menú Principal
+<img width="379" height="337" alt="00_menu" src="https://github.com/user-attachments/assets/c66eab8c-aa32-4f6b-981b-afdafee0e4a1" />
+ 
+### 1. Inserción de Empleados
+<img width="370" height="821" alt="01_insercion" src="https://github.com/user-attachments/assets/8d8b281d-eb11-417b-9184-100e0bea73e0" />
+
+### 2. Búsqueda de Empleado
+<img width="476" height="818" alt="02_busqueda" src="https://github.com/user-attachments/assets/91b5d846-04a8-48b1-8b0d-7d6b27e00803" />
+
+### 3. Mostrar Raiz
+<img width="477" height="395" alt="03_mostrarRaiz" src="https://github.com/user-attachments/assets/7a56b997-cff4-44d2-8efe-26d27c3f6f4c" />
+
+
+### 4. Recorrido Inorden
+<img width="594" height="535" alt="04_inorden" src="https://github.com/user-attachments/assets/f4251427-aecc-46d4-9c15-a835b5562faf" />
+
+### 5. Recorrido Preorden
+<img width="575" height="531" alt="05_preorden" src="https://github.com/user-attachments/assets/1c871c4d-40d7-48eb-8d05-da6ddd021cf9" />
+
+ 
+### 6. Recorrido Postorden
+<img width="579" height="529" alt="06_postorden" src="https://github.com/user-attachments/assets/d8b329a5-8a4e-46db-b815-5a6f5fd9403d" />
+
+ 
+### 7. Altura del Árbol
+<img width="401" height="380" alt="07_altura" src="https://github.com/user-attachments/assets/80024c47-41f4-4cf2-890f-f67da7a1082b" />
+
+ 
+### 8. Nodos Hoja
+<img width="476" height="465" alt="08_hojas" src="https://github.com/user-attachments/assets/cf5b66ed-31f6-457f-8b01-bee5e8bde331" />
+
+ 
+---
 ## Conclusión
 La implementación de un Árbol Binario de Búsqueda para representar un organigrama empresarial demuestra cómo las estructuras de datos permiten organizar información jerárquica de forma eficiente. A diferencia de una lista o arreglo lineal, el BST permite realizar búsquedas en O(log n) en promedio, lo que significa que con 1000 empleados solo se necesitan aproximadamente 10 comparaciones para encontrar cualquier registro.
 
